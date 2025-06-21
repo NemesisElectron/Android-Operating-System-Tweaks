@@ -6,8 +6,9 @@ pm uninstall --user 0 com.coloros.weather2
 
 pm uninstall --user 0 com.coloros.filemanager
 pm uninstall --user 0 com.coloros.gallery3d
-pm uninstall --user 0 com.coloros.video
 pm uninstall --user 0 com.coloros.soundrecorder
+
+pm uninstall --user 0 com.coloros.video
 
 pm uninstall --user 0 com.coloros.note
 
