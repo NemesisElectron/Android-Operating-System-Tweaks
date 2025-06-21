@@ -11,5 +11,5 @@ RootlessJamesDSP\
 ShizuShell
 
 # Steps To Do
-Download `https://github.com/NemesisElectron/Android-Operating-System-Tweaks/blob/main/SHELL.sh` with `Chrome`\
-Run `sh /storage/emulated/0/Download/SHELL.sh` with `ShizuShell`
+Download `https://github.com/NemesisElectron/Android-Operating-System-Tweaks/blob/main/SHELL.sh` with Google Chrome\
+Run `sh /storage/emulated/0/Download/SHELL.sh` with ShizuShell
