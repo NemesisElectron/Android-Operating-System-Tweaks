@@ -9,6 +9,8 @@ pm uninstall --user 0 com.coloros.gallery3d
 pm uninstall --user 0 com.coloros.video
 pm uninstall --user 0 com.coloros.soundrecorder
 
+pm uninstall --user 0 com.coloros.note
+
 # Uninstall Google Applications
 pm uninstall --user 0 com.google.android.webview
 
